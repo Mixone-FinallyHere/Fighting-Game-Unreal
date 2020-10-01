@@ -33,13 +33,4 @@ Punching --> *Z key* | Kicking --> *X key*
 
 Receiving the damage was implemented in the enemy character, to show how it actually happen in the game
 
-# Files 
-
-in this repository, you will find the source file.
-EXE file can be download from [here](https://drive.google.com/open?id=1nZawR_GuoF6fxN48rSm7d-qvF2MiIkW_) or [here](https://drive.google.com/open?id=1veJz-0ZV9e3FnckEjZmeeFpFRaIOlknS)
-
-# Video
-
-[Uploaded in Youtube](https://youtu.be/UEJssVkppf4)
-
 
